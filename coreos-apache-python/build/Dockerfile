@@ -1,0 +1,1 @@
+FROM coreos/apache
